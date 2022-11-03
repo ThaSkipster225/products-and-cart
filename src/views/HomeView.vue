@@ -62,7 +62,7 @@
 
 export default {
   name: 'HomeView',
-  props: ['inventory'],
+  props: ['inventory', 'addToCart'],
   components: {
   }
 }
